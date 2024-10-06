@@ -40,9 +40,9 @@ A comprehensive Roblox panel for tracking and managing your games.
 
 - Real-time game statistics tracking
 - User-friendly dashboard for data visualization
-- Data Export (Coming Soon)
-- Basic Analytics (Coming Soon)
-- Security Features (Coming Soon)
+- Data Export (Coming Soon if i feel like it)
+- Basic Analytics (Coming Soon if i feel like it)
+- Security Features (Coming Soon if i feel like it)
 
 ## Prerequisites
 
