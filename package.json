@@ -1,0 +1,13 @@
+{
+  "scripts": {
+    "format": "prettier --write .",
+    "front": "cd front_end && bun run dev",
+    "back": "cd back_end && cargo run",
+    "stress": "cd stress_test && go run main.go",
+    "db": "pg_ctl start && psql -U postgres -d yarp"
+  },
+  "dependencies": {},
+  "devDependencies": {
+    "prettier": "3.3.3"
+  }
+}
