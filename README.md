@@ -35,6 +35,8 @@ A comprehensive Roblox panel for tracking and managing your games.
 
 </details>
 
+![YARP Preview](./front_end/public/pasted.png)
+
 
 ## Features
 
